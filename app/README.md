@@ -22,7 +22,7 @@
 #### 1. Clone the Repository
 ````bash
 git clone
-[https://github.com/Huntrix156/UrbanLink2.git](https://github.com/Huntrix156/UrbanLink2)
+https://github.com/Huntrix156/UrbanLink2
 ````
 ----
 2.Open Android Studio 
